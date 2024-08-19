@@ -5,6 +5,7 @@ class test{
 	    int c=a+b;
 	System.out.println(c);
         System.out.println("hello world ");
+	System.out.println(a);
     }
 
 }
