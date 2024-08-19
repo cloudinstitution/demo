@@ -6,6 +6,7 @@ class test{
 	System.out.println(c);
         System.out.println("hello world ");
 	System.out.println(a);
+	    System.out.println(b);
     }
 
 }
